@@ -4,7 +4,7 @@
 }
 
 .borda {
-  background-color: aliceblue;
+  background-color: rgba(245, 253, 255, 0.781);
   border: solid 1px gray;
   padding: 0px 0px 0px 10px;
 }
@@ -13,10 +13,17 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 8px;
 }
 
 .delete {
-  background-color: red;
+  background-color: rgb(185, 1, 1);
   padding: 40px;
   cursor: pointer;
+  font-size: 1.25rem;
+}
+
+.delete:hover {
+  background-color: red;
+  transition: 0.5s;
 }

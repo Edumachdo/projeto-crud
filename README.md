@@ -1,3 +1,10 @@
+# Rodar o projeto
+
+Rodar o comando "npm install json-server" para instalação do json, para usar o db.json.
+Iniciar o db.json com o comando "json-server db.json".
+
+iniciar o front com o comando "ng serve"
+
 # Projeto
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.4.

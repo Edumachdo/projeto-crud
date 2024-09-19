@@ -1,9 +1,15 @@
 {
   "pessoas": [
     {
-      "id": "bc44",
+      "id": "8fc0",
       "nome": "Eduardo Gomes Machado",
-      "idade": 27,
+      "idade": 35,
+      "email": "lilian.silva@sky.com.br"
+    },
+    {
+      "id": "b9df",
+      "nome": "Eduardo Gomes Machado",
+      "idade": 23,
       "email": "eduardo.machado@icolabora.com"
     }
   ]
